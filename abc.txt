@@ -2,7 +2,7 @@ test
 tsukasaSUZUKI__test
 
 branch_test
-TEST
+TE
 tsukasaTEST2
 
 suzukingou
@@ -12,4 +12,4 @@ sss
 
 tsyukasa-test3
 
-tsukasa-test4
+tsukasa
