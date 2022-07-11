@@ -6,3 +6,4 @@ TEST
 tsukasaTEST2
 
 suzukingou
+branch_test２
